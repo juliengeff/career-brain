@@ -1,0 +1,14 @@
+{
+  "name": "career-brain",
+  "version": "1.0.0",
+  "description": "An AI career coach that remembers your real career history and never invents facts. Helps with positioning, resume, LinkedIn, and interview prep — built only from verified, defensible facts.",
+  "author": {
+    "name": "Growth Leaps",
+    "email": "julien@growth-leaps.com",
+    "url": "https://www.growth-leaps.com"
+  },
+  "homepage": "https://www.growth-leaps.com/career-brain.html",
+  "repository": "https://github.com/juliengeff/career-brain",
+  "license": "MIT",
+  "keywords": ["career", "resume", "linkedin", "interview-prep", "coaching"]
+}
