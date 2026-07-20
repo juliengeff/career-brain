@@ -1,0 +1,16 @@
+{
+  "name": "growth-leaps",
+  "owner": {
+    "name": "Growth Leaps",
+    "email": "julien@growth-leaps.com",
+    "url": "https://www.growth-leaps.com"
+  },
+  "plugins": [
+    {
+      "name": "career-brain",
+      "source": "./",
+      "version": "1.0.0",
+      "description": "An AI career coach that remembers your real history and never invents facts. Resume, LinkedIn, and interview prep from verified facts only."
+    }
+  ]
+}
