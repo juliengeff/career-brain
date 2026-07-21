@@ -1,7 +1,7 @@
 # MY CAREER BRAIN — [your name] — last updated: [date]
 
-Keep this whole document under roughly 2,500 words so it stays easy to load into
-any AI. Write the content in your own language; keep the section titles as they are.
+Keep this whole document under roughly 2,500 words so it stays compact and
+quick for your coach to load. Write the content in your own language; keep the section titles as they are.
 The onboarding interview (the `career-brain-setup` skill) fills this in — you don't
 have to write it alone.
 

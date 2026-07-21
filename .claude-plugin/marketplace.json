@@ -9,7 +9,7 @@
     {
       "name": "career-brain",
       "source": "./",
-      "version": "1.0.0",
+      "version": "1.1.0",
       "description": "An AI career coach that remembers your real history and never invents facts. Resume, LinkedIn, and interview prep from verified facts only."
     }
   ]

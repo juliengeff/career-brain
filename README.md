@@ -42,11 +42,6 @@ This repository is both a Claude plugin **marketplace** (`growth-leaps`) and the
 2. **The Brain is the memory; the chat is scratch paper.** Everything important
    lives in your Brain file, not the conversation.
 
-## Free, any-AI version
-
-No paid Claude plan? The same coach works free on Claude, ChatGPT, or Gemini with
-a copy-paste setup — see the [product page](https://www.growth-leaps.com/career-brain.html).
-
 ## License
 
 MIT
